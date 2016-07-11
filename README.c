@@ -13,3 +13,4 @@ void main()
 		printf("Both are equal");
 		getch();
 }
+  
